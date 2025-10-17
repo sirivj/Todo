@@ -25,20 +25,37 @@ Tools & Libraries: Create React App, VS Code
 
 Version Control: Git, GitHub
 
-Project Structure
-react-todo-app/
-│
-├── public/
-│   └── index.html
-│
-├── src/
-│   ├── components/
-│   │   └── TodoItem.js
-│   │   └── TodoList.js
-│   ├── App.js
-│   ├── App.css
-│   └── index.js
-│
-├── package.json
-└── README.md
+⚙️ Installation & Setup
 
+Clone the repository
+
+git clone https://github.com/your-username/react-todo-app.git
+
+
+Navigate to the project directory
+
+cd react-todo-app
+
+
+Install dependencies
+
+npm install
+
+
+Start the development server
+
+npm start
+
+
+Your app will now run locally on http://localhost:3000
+ 🌐
+
+Future Enhancements
+
+Add task categories or priorities
+
+Implement authentication (login/logout)
+
+Sync data with a Django/Flask backend
+
+Add dark mode for better user experience
