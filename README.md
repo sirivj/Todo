@@ -25,30 +25,6 @@ Tools & Libraries: Create React App, VS Code
 
 Version Control: Git, GitHub
 
-⚙️ Installation & Setup
-
-Clone the repository
-
-git clone https://github.com/your-username/react-todo-app.git
-
-
-Navigate to the project directory
-
-cd react-todo-app
-
-
-Install dependencies
-
-npm install
-
-
-Start the development server
-
-npm start
-
-
-Your app will now run locally on http://localhost:3000
- 🌐
 
 Future Enhancements
 
